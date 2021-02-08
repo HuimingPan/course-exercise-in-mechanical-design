@@ -8,7 +8,9 @@
 程序已经上传到Github，有需要的小伙伴可以去Github上下载程序。也欢迎大家在Github上进行改进或者在下方评论。
 
 Github 链接：https://github.com/HuimingPan/course-exercise-in-mechanical-design
+
 CSDN 链接：https://blog.csdn.net/weixin_46191033/article/details/113738206
+
 知乎链接：https://zhuanlan.zhihu.com/p/349813060
 ## 2. Structure
 - caculation.py 是主程序；
